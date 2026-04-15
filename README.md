@@ -14,3 +14,5 @@ i be programing this with qmk
 
 i use only kicad and fusion in hardware
 and qmk site in code
+
+they have 10 switch , 1 oled and 2 rot. encoder with push
