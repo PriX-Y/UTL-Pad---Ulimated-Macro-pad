@@ -16,3 +16,8 @@ i use only kicad and fusion in hardware
 and qmk site in code
 
 they have 10 switch , 1 oled and 2 rot. encoder with push
+
+<img width="1937" height="757" alt="Zrzut ekranu 2026-04-15 220521" src="https://github.com/user-attachments/assets/5e152900-6f2d-43ed-9af7-6a7e603cefe9" />
+
+
+there is bom
