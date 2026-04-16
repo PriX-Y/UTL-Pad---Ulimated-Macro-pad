@@ -19,9 +19,11 @@ they have 10 switch , 1 oled and 2 rot. encoder with push
 
 <img width="1937" height="757" alt="Zrzut ekranu 2026-04-15 220521" src="https://github.com/user-attachments/assets/5e152900-6f2d-43ed-9af7-6a7e603cefe9" />
 
+<img width="852" height="641" alt="image" src="https://github.com/user-attachments/assets/1b1154af-1fb0-4f2b-9ba6-79ac75f508fe" />
+
 
 there is bom
 
+<img width="1299" height="313" alt="image" src="https://github.com/user-attachments/assets/0881c4de-021f-4b7d-a0b2-b60359b026df" />
 
-<img width="1260" height="593" alt="image" src="https://github.com/user-attachments/assets/c56b8778-3ce6-4bab-8e7c-a24faf084aeb" />
 
