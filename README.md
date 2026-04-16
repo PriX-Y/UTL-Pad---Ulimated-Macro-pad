@@ -21,3 +21,7 @@ they have 10 switch , 1 oled and 2 rot. encoder with push
 
 
 there is bom
+
+
+<img width="1260" height="593" alt="image" src="https://github.com/user-attachments/assets/c56b8778-3ce6-4bab-8e7c-a24faf084aeb" />
+
