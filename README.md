@@ -18,6 +18,8 @@ i use only kicad and fusion in hardware
 <img width="756" height="549" alt="Zrzut ekranu 2026-04-19 143630" src="https://github.com/user-attachments/assets/a57048e3-b1b3-409e-918d-41ff639da229" />
 
 <img width="794" height="419" alt="Zrzut ekranu 2026-04-19 002334" src="https://github.com/user-attachments/assets/bd015ad7-aee3-48ba-a7ae-bda38e34dd5e" />
+there is only case
+<img width="719" height="698" alt="image" src="https://github.com/user-attachments/assets/7d404e73-8dcc-4710-9bd8-73963be1562f" />
 
 
 and qmk site in code
