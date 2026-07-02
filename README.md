@@ -2,6 +2,8 @@
 
 i made this macro with with Statis - HackClub
 
+<img width="2296" height="4080" alt="converted_image" src="https://github.com/user-attachments/assets/80e478a4-a691-4b07-a870-23610adf1cb9" />
+
 
 on this pad is all waht i need for laptop. like
 volume, screan bright, mute and more
